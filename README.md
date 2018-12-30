@@ -4,3 +4,5 @@
   * ![img](https://latex.codecogs.com/gif.latex?C_%7Bsize%7D) = Desired ensemble size
   * ![img](https://latex.codecogs.com/gif.latex?C%5E%7B*%7D) = Ensemble classifier
 ## The Algorithm 
+  * ![img](https://github.com/yoni-birman/DECORATE-GAN/blob/master/1_1.jpg.png)
+  * ![img](https://github.com/yoni-birman/DECORATE-GAN/blob/master/1_2.jpg.png)
